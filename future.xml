@@ -1,0 +1,1626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Media="future" Mediatypes="video"
+      PID="11312/t-00017262-1"
+      Font="CAfont:13:0"
+      Version="2.2.1"
+      Lang="eng"
+      Options="CA"
+      Corpus="DaCapo"
+      Date="1984-01-01">
+  <Participants>
+    <participant
+      id="DAC"
+    name="Dacapo_Leader"
+      role="Adult"
+      language="eng"
+
+    />
+    <participant
+      id="MIC"
+    name="Michael"
+      role="Adult"
+      language="eng"
+
+    />
+    <participant
+      id="LUI"
+    name="Luis"
+      role="Adult"
+      language="eng"
+
+    />
+    <participant
+      id="NIN"
+    name="Nina"
+      role="Adult"
+      language="eng"
+
+    />
+    <participant
+      id="KEN"
+      role="Adult"
+      language="eng"
+
+    />
+    <participant
+      id="JAK"
+    name="Jakob"
+      role="Adult"
+      language="eng"
+
+    />
+    <participant
+      id="XXX"
+      role="Unidentified"
+      language="eng"
+
+    />
+    <participant
+      id="WOM"
+    name="Dacapo_Woman"
+      role="Adult"
+      language="eng"
+
+    />
+  </Participants>
+  <u who="KEN" uID="u0">
+    <w>as</w>
+    <w>it</w>
+    <w>currently</w>
+    <w>stands</w>
+    <w>one</w>
+    <w>of</w>
+    <w>the</w>
+    <w>things</w>
+    <w>that</w>
+    <w>people</w>
+    <w>do</w>
+    <internal-media
+      start="0.000"
+      end="2.520"
+      unit="s"
+    />
+    <w>is</w>
+    <w>create</w>
+    <internal-media
+      start="2.520"
+      end="3.240"
+      unit="s"
+    />
+    <w>one</w>
+    <w>of</w>
+    <w>the</w>
+    <w>things</w>
+    <w>that</w>
+    <w>anthropologists</w>
+    <w>design</w>
+    <w>researchers</w>
+    <w>do</w>
+    <internal-media
+      start="3.240"
+      end="6.720"
+      unit="s"
+    />
+    <w>is</w>
+    <w>they</w>
+    <w>create</w>
+    <w>distance</w>
+    <w>between</w>
+    <w>business</w>
+    <w>people</w>
+    <internal-media
+      start="6.720"
+      end="9.160"
+      unit="s"
+    />
+    <w>and</w>
+    <w>uh</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="9.160"
+      end="11.200"
+      unit="s"
+    />
+  </u>
+  <u who="DAC" uID="u1">
+    <w>participants</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="11.200"
+      end="11.800"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u2">
+    <w>the</w>
+    <w>participants</w>
+    <internal-media
+      start="11.800"
+      end="12.600"
+      unit="s"
+    />
+    <w>and</w>
+    <w>they</w>
+    <w>do</w>
+    <w>it</w>
+    <w>under</w>
+    <w>the</w>
+    <w>rhetoric</w>
+    <w>of</w>
+    <w>making</w>
+    <w>them</w>
+    <w>closer</w>
+    <internal-media
+      start="12.600"
+      end="16.120"
+      unit="s"
+    />
+    <w>but</w>
+    <w>in</w>
+    <w>actuality</w>
+    <w>they</w>
+    <w>are</w>
+    <w>still</w>
+    <w>they</w>
+    <w>are</w>
+    <w>still</w>
+    <w>creating</w>
+    <w>distance</w>
+    <internal-media
+      start="16.120"
+      end="19.280"
+      unit="s"
+    />
+    <w>and</w>
+    <w>then</w>
+    <w>the</w>
+    <w>other</w>
+    <w>point</w>
+    <w>which</w>
+    <w>I</w>
+    <w>think</w>
+    <w>is</w>
+    <w>hugely</w>
+    <w>important</w>
+    <internal-media
+      start="19.280"
+      end="21.880"
+      unit="s"
+    />
+    <w>has</w>
+    <w>to</w>
+    <w>do</w>
+    <w>with</w>
+    <w>how</w>
+    <w>they</w>
+    <w>go</w>
+    <w>about</w>
+    <w>doing</w>
+    <w>research</w>
+    <internal-media
+      start="21.880"
+      end="26.080"
+      unit="s"
+    />
+    <w>which</w>
+    <w>maybe</w>
+    <w>did</w>
+    <w>not</w>
+    <w>come</w>
+    <w>out</w>
+    <w>or</w>
+    <w>maybe</w>
+    <w>did</w>
+    <internal-media
+      start="26.080"
+      end="27.760"
+      unit="s"
+    />
+    <w>which</w>
+    <w>is</w>
+    <w>we</w>
+    <tagMarker type="comma"></tagMarker>
+    <t type="missing CA terminator"></t>
+    <media
+      start="27.760"
+      end="29.000"
+      unit="s"
+    />
+  </u>
+  <u who="DAC" uID="u3">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>maybe</w>
+    <w>did</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="29.000"
+      end="30.360"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u4">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>we</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>people</w>
+    <w>out</w>
+    <w>here</w>
+    <internal-media
+      start="30.360"
+      end="32.280"
+      unit="s"
+    />
+    <w>do</w>
+    <w>basically</w>
+    <w>one</w>
+    <w>thing</w>
+    <internal-media
+      start="32.280"
+      end="34.400"
+      unit="s"
+    />
+    <w>we</w>
+    <w>go</w>
+    <w>in</w>
+    <w>and</w>
+    <w>talk</w>
+    <w>to</w>
+    <w>people</w>
+    <internal-media
+      start="34.400"
+      end="35.480"
+      unit="s"
+    />
+    <w>and</w>
+    <w>we</w>
+    <w>have</w>
+    <w>done</w>
+    <w>that</w>
+    <w>now</w>
+    <w>for</w>
+    <w>go-</w>
+    <w>ninety</w>
+    <w>years</w>
+    <internal-media
+      start="35.840"
+      end="38.120"
+      unit="s"
+    />
+    <w>and</w>
+    <w>we're</w>
+    <w>not</w>
+    <w>we're</w>
+    <w>not</w>
+    <w>doing</w>
+    <w>a</w>
+    <w>whole</w>
+    <w>nother</w>
+    <w>set</w>
+    <w>of</w>
+    <w>methods</w>
+    <internal-media
+      start="38.120"
+      end="43.080"
+      unit="s"
+    />
+    <w>which</w>
+    <w>allow</w>
+    <w>us</w>
+    <w>to</w>
+    <w>become</w>
+    <w>closer</w>
+    <w>to</w>
+    <w>her</w>
+    <internal-media
+      start="43.080"
+      end="45.080"
+      unit="s"
+    />
+    <pause symbolic-length="simple" length="1.0"/>
+    <internal-media
+      start="45.080"
+      end="45.760"
+      unit="s"
+    />
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>or</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="45.760"
+      end="46.040"
+      unit="s"
+    />
+  </u>
+  <u who="LUI" uID="u5">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>so</w>
+    <w>so</w>
+    <w>you're</w>
+    <w>saying</w>
+    <w>that</w>
+    <w>technology</w>
+    <internal-media
+      start="46.040"
+      end="48.080"
+      unit="s"
+    />
+    <w>if</w>
+    <w>we</w>
+    <w>are</w>
+    <w>not</w>
+    <w>really</w>
+    <w>part</w>
+    <w>of</w>
+    <w>the</w>
+    <w>future</w>
+    <internal-media
+      start="48.080"
+      end="51.160"
+      unit="s"
+    />
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>then</w>
+    <w>so</w>
+    <w>we</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="51.160"
+      end="52.000"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u6">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>right</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>so</w>
+    <internal-media
+      start="52.000"
+      end="52.760"
+      unit="s"
+    />
+    <w>the</w>
+    <w>warning</w>
+    <w>message</w>
+    <w>the</w>
+    <w>warning</w>
+    <w>message</w>
+    <w>is</w>
+    <w>that</w>
+    <internal-media
+      start="52.760"
+      end="54.560"
+      unit="s"
+    />
+    <w>unless</w>
+    <w>we</w>
+    <w>change</w>
+    <w>our</w>
+    <w>act</w>
+    <w>substantially</w>
+    <internal-media
+      start="54.560"
+      end="57.600"
+      unit="s"
+    />
+    <w>then</w>
+    <w>we're</w>
+    <w>out</w>
+    <w>of</w>
+    <w>the</w>
+    <w>picture</w>
+    <internal-media
+      start="57.600"
+      end="58.760"
+      unit="s"
+    />
+    <w>then</w>
+    <w>we</w>
+    <w>end</w>
+    <w>up</w>
+    <w>being</w>
+    <w>left</w>
+    <w>out</w>
+    <w>in</w>
+    <w>the</w>
+    <w>cold</w>
+    <internal-media
+      start="58.760"
+      end="60.320"
+      unit="s"
+    />
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>at</w>
+    <w>the</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="60.320"
+      end="60.960"
+      unit="s"
+    />
+  </u>
+  <u who="LUI" uID="u7">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>yeah</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="60.960"
+      end="61.320"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u8">
+    <w>at</w>
+    <w>the</w>
+    <w>business</w>
+    <w>meeting</w>
+    <w>and</w>
+    <w>have</w>
+    <w>no</w>
+    <w>value</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="61.320"
+      end="62.520"
+      unit="s"
+    />
+  </u>
+  <u who="LUI" uID="u9">
+    <w>so</w>
+    <w>this</w>
+    <w>is</w>
+    <w>the</w>
+    <w>future</w>
+    <internal-media
+      start="62.520"
+      end="63.800"
+      unit="s"
+    />
+    <w>this</w>
+    <w>is</w>
+    <w>the</w>
+    <w>future</w>
+    <w>of</w>
+    <w>our</w>
+    <w>work</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="63.800"
+      end="65.319"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u10">
+    <w>well</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="65.319"
+      end="66.040"
+      unit="s"
+    />
+  </u>
+  <u who="LUI" uID="u11">
+    <w>this</w>
+    <w>is</w>
+    <w>the</w>
+    <w>future</w>
+    <w>of</w>
+    <w>recent</w>
+    <w>technology</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="66.040"
+      end="67.480"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u12">
+    <w>well</w>
+    <w>this</w>
+    <w>is</w>
+    <w>the</w>
+    <w>future</w>
+    <w>here</w>
+    <w>without</w>
+    <internal-media
+      start="67.480"
+      end="68.320"
+      unit="s"
+    />
+    <w>intervention</w>
+    <w>on</w>
+    <w>our</w>
+    <w>part</w>
+    <w>to</w>
+    <w>actually</w>
+    <w>change</w>
+    <w>what</w>
+    <w>we</w>
+    <w>are</w>
+    <w>doing</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="68.320"
+      end="70.600"
+      unit="s"
+    />
+  </u>
+  <u who="DAC" uID="u13">
+    <w>yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>could</w>
+    <w>we</w>
+    <w>could</w>
+    <w>we</w>
+    <w>play</w>
+    <w>it</w>
+    <w>out</w>
+    <w>like</w>
+    <w>like</w>
+    <internal-media
+      start="70.600"
+      end="74.040"
+      unit="s"
+    />
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>like</w>
+    <w>I</w>
+    <w>was</w>
+    <w>going</w>
+    <w>to</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="74.040"
+      end="75.240"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u14">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>let</w>
+    <w>me</w>
+    <w>just</w>
+    <w>to</w>
+    <w>see</w>
+    <internal-media
+      start="75.240"
+      end="75.920"
+      unit="s"
+    />
+    <w>does</w>
+    <w>that</w>
+    <w>make</w>
+    <w>sense</w>
+    <w>to</w>
+    <w>you</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="75.920"
+      end="76.640"
+      unit="s"
+    />
+  </u>
+  <u who="NIN" uID="u15">
+    <w>just</w>
+    <w>get</w>
+    <w>carry</w>
+    <w>on</w>
+    <internal-media
+      start="76.640"
+      end="78.160"
+      unit="s"
+    />
+    <w>carry</w>
+    <w>on</w>
+    <w>with</w>
+    <internal-media
+      start="78.160"
+      end="78.920"
+      unit="s"
+    />
+    <w>carry</w>
+    <w>on</w>
+    <w>with</w>
+    <w>what</w>
+    <w>he's</w>
+    <w>been</w>
+    <w>saying</w>
+    <internal-media
+      start="78.920"
+      end="80.440"
+      unit="s"
+    />
+    <w>and</w>
+    <w>I</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="80.440"
+      end="80.880"
+      unit="s"
+    />
+  </u>
+  <u who="DAC" uID="u16">
+    <w>yeah</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>can</w>
+    <w>play</w>
+    <w>it</w>
+    <w>out</w>
+    <w>like</w>
+    <internal-media
+      start="80.880"
+      end="82.680"
+      unit="s"
+    />
+    <w>I</w>
+    <w>was</w>
+    <w>kept</w>
+    <w>from</w>
+    <internal-media
+      start="82.680"
+      end="84.840"
+      unit="s"
+    />
+    <w>I</w>
+    <w>was</w>
+    <w>kept</w>
+    <w>from</w>
+    <w>the</w>
+    <w>customers</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="84.840"
+      end="86.600"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u17">
+    <w>eh</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="86.600"
+      end="87.200"
+      unit="s"
+    />
+  </u>
+  <u who="DAC" uID="u18">
+    <w>and</w>
+    <w>so</w>
+    <w>and</w>
+    <w>he</w>
+    <w>came</w>
+    <w>he</w>
+    <w>come</w>
+    <w>through</w>
+    <w>the</w>
+    <w>total</w>
+    <w>live</w>
+    <w>blogging</w>
+    <w>system</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="87.200"
+      end="93.480"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u19">
+    <w>yeah</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>no</w>
+    <w>no</w>
+    <w>no</w>
+    <internal-media
+      start="93.480"
+      end="93.960"
+      unit="s"
+    />
+    <w>we</w>
+    <w>have</w>
+    <w>to</w>
+    <w>consult</w>
+    <w>people</w>
+    <internal-media
+      start="93.960"
+      end="95.080"
+      unit="s"
+    />
+    <w>that's</w>
+    <w>that's</w>
+    <w>part</w>
+    <w>of</w>
+    <w>the</w>
+    <w>joy</w>
+    <w>of</w>
+    <w>this</w>
+    <internal-media
+      start="95.080"
+      end="97.240"
+      unit="s"
+    />
+    <w>is</w>
+    <w>that</w>
+    <w>it</w>
+    <w>the</w>
+    <w>tension</w>
+    <internal-media
+      start="97.240"
+      end="98.520"
+      unit="s"
+    />
+    <w>instead</w>
+    <w>of</w>
+    <w>like</w>
+    <w>having</w>
+    <w>a</w>
+    <w>happy</w>
+    <w>thing</w>
+    <internal-media
+      start="98.520"
+      end="100.040"
+      unit="s"
+    />
+    <w>where</w>
+    <w>all</w>
+    <w>these</w>
+    <w>people</w>
+    <w>are</w>
+    <w>feel</w>
+    <w>happy</w>
+    <w>about</w>
+    <w>their</w>
+    <w>jobs</w>
+    <internal-media
+      start="100.040"
+      end="102.280"
+      unit="s"
+    />
+    <w>I</w>
+    <w>want</w>
+    <w>them</w>
+    <w>to</w>
+    <w>be</w>
+    <w>pissed</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="102.280"
+      end="103.400"
+      unit="s"
+    />
+  </u>
+  <u who="DAC" uID="u20">
+    <w>okay</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>well</w>
+    <w>isn't</w>
+    <w>my</w>
+    <w>fucking</w>
+    <w>system</w>
+    <w>uh</w>
+    <w>pissing</w>
+    <w>them</w>
+    <w>off</w>
+    <w>enough</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="103.400"
+      end="108.280"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u21">
+    <w>yeah</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="108.280"
+      end="108.720"
+      unit="s"
+    />
+  </u>
+  <u who="DAC" uID="u22">
+    <w>okay</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>so</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="108.720"
+      end="110.080"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u23">
+    <w>so</w>
+    <w>you</w>
+    <w>are</w>
+    <w>using</w>
+    <w>the</w>
+    <w>life</w>
+    <w>blogging</w>
+    <w>system</w>
+    <internal-media
+      start="110.080"
+      end="111.240"
+      unit="s"
+    />
+    <w>to</w>
+    <w>get</w>
+    <w>in</w>
+    <w>touch</w>
+    <w>with</w>
+    <w>her</w>
+    <internal-media
+      start="111.240"
+      end="112.400"
+      unit="s"
+    />
+    <w>and</w>
+    <w>to</w>
+    <w>get</w>
+    <w>into</w>
+    <w>her</w>
+    <w>feelings</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="112.400"
+      end="115.120"
+      unit="s"
+    />
+  </u>
+  <u who="DAC" uID="u24">
+    <w>and</w>
+    <w>if</w>
+    <w>he</w>
+    <w>gets</w>
+    <w>the</w>
+    <w>connection</w>
+    <internal-media
+      start="115.120"
+      end="115.840"
+      unit="s"
+    />
+    <w>if</w>
+    <w>he</w>
+    <w>gets</w>
+    <w>the</w>
+    <w>connection</w>
+    <w>with</w>
+    <w>the</w>
+    <w>customer</w>
+    <internal-media
+      start="115.840"
+      end="117.120"
+      unit="s"
+    />
+    <w>and</w>
+    <w>I</w>
+    <w>am</w>
+    <w>left</w>
+    <w>off</w>
+    <internal-media
+      start="117.120"
+      end="118.920"
+      unit="s"
+    />
+    <w>because</w>
+    <w>I</w>
+    <w>was</w>
+    <w>the</w>
+    <w>one</w>
+    <w>who</w>
+    <w>choose</w>
+    <w>the</w>
+    <w>old</w>
+    <w>ethnographer</w>
+    <internal-media
+      start="118.920"
+      end="121.760"
+      unit="s"
+    />
+    <w>and</w>
+    <w>he's</w>
+    <w>working</w>
+    <w>with</w>
+    <w>the</w>
+    <w>new</w>
+    <w>system</w>
+    <internal-media
+      start="121.760"
+      end="124.760"
+      unit="s"
+    />
+    <w>so</w>
+    <w>he's</w>
+    <w>got</w>
+    <w>the</w>
+    <w>customer</w>
+    <internal-media
+      start="124.760"
+      end="126.720"
+      unit="s"
+    />
+    <w>was</w>
+    <w>that</w>
+    <w>the</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="126.720"
+      end="128.080"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u25">
+    <w>yeah</w>
+    <internal-media
+      start="128.080"
+      end="128.440"
+      unit="s"
+    />
+    <w>yeah</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>yeah</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="128.440"
+      end="129.360"
+      unit="s"
+    />
+  </u>
+  <u who="DAC" uID="u26">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>so</w>
+    <w>I'm</w>
+    <w>left</w>
+    <w>out</w>
+    <w>and</w>
+    <w>he's</w>
+    <internal-media
+      start="129.360"
+      end="130.880"
+      unit="s"
+    />
+    <w>he's</w>
+    <w>actually</w>
+    <w>made</w>
+    <w>this</w>
+    <w>rubber</w>
+    <w>band</w>
+    <internal-media
+      start="130.880"
+      end="134.000"
+      unit="s"
+    />
+    <w>close</w>
+    <w>to</w>
+    <w>her</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="134.000"
+      end="134.720"
+      unit="s"
+    />
+  </u>
+  <u who="DAC" uID="u27">
+    <w>uh</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Ken</w>
+    <internal-media
+      start="134.720"
+      end="135.680"
+      unit="s"
+    />
+    <w>wha-</w>
+    <w>what's</w>
+    <w>happening</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>he</w>
+    <w>has</w>
+    <w>changed</w>
+    <w>roles</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="135.680"
+      end="138.880"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u28">
+    <w>oh</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>he</w>
+    <w>has</w>
+    <w>changed</w>
+    <w>roles</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>oh</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="138.880"
+      end="139.880"
+      unit="s"
+    />
+  </u>
+  <u who="DAC" uID="u29">
+    <w>he</w>
+    <w>is</w>
+    <w>not</w>
+    <w>the</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>researcher</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="139.880"
+      end="140.680"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u30">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>oh</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>okay</w>
+    <w>I'm</w>
+    <w>sorry</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="140.680"
+      end="142.280"
+      unit="s"
+    />
+  </u>
+  <u who="DAC" uID="u31">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>he's</w>
+    <w>the</w>
+    <w>business</w>
+    <w>leader</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="142.280"
+      end="142.720"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u32">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>oh</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>okay</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I'm</w>
+    <w>sorry</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="142.720"
+      end="144.280"
+      unit="s"
+    />
+  </u>
+  <u who="DAC" uID="u33">
+    <w>he's</w>
+    <w>the</w>
+    <w>business</w>
+    <w>leader</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="144.280"
+      end="145.280"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u34">
+    <w>oh</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>missed</w>
+    <w>that</w>
+    <t type="p"></t>
+    <media
+      start="145.280"
+      end="145.640"
+      unit="s"
+    />
+  </u>
+  <u who="NIN" uID="u35">
+    <w>he's</w>
+    <w>the</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="145.640"
+      end="146.320"
+      unit="s"
+    />
+  </u>
+  <u who="DAC" uID="u36">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w>he's</w>
+    <w>the</w>
+    <w>business</w>
+    <w>leader</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="146.320"
+      end="147.080"
+      unit="s"
+    />
+  </u>
+  <u who="JAK" uID="u37">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>he's</w>
+    <w>a</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="147.080"
+      end="148.160"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u38">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="148.160"
+      end="148.920"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u39">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>you</w>
+    <w>can</w>
+    <w>very</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+    <media
+      start="148.920"
+      end="149.160"
+      unit="s"
+    />
+  </u>
+  <u who="NIN" uID="u40">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="149.160"
+      end="149.880"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u41">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>I'm</w>
+    <w>about</w>
+    <w>as</w>
+    <w>bad</w>
+    <w>as</w>
+    <w>you</w>
+    <t type="p"></t>
+    <media
+      start="149.880"
+      end="150.680"
+      unit="s"
+    />
+  </u>
+  <u who="NIN" uID="u42">
+    <overlap-point start-end="start" top-bottom="bottom"/>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="150.680"
+      end="151.040"
+      unit="s"
+    />
+  </u>
+  <u who="JAK" uID="u43">
+    <w>no</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>were</w>
+    <w>smarter</w>
+    <t type="p"></t>
+    <media
+      start="151.040"
+      end="151.760"
+      unit="s"
+    />
+  </u>
+  <u who="DAC" uID="u44">
+    <w>we</w>
+    <w>will</w>
+    <w>change</w>
+    <w>tomorrow</w>
+    <w>to</w>
+    <w>to</w>
+    <w>emphasize</w>
+    <w>that</w>
+    <w>role</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="151.760"
+      end="154.080"
+      unit="s"
+    />
+  </u>
+  <u who="LUI" uID="u45">
+    <w>but</w>
+    <w>here</w>
+    <w>is</w>
+    <w>an</w>
+    <w>idea</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>here</w>
+    <w>is</w>
+    <w>an</w>
+    <w>idea</w>
+    <internal-media
+      start="154.080"
+      end="155.400"
+      unit="s"
+    />
+    <w>what</w>
+    <w>if</w>
+    <w>when</w>
+    <w>you</w>
+    <w>two</w>
+    <w>are</w>
+    <w>doing</w>
+    <w>the</w>
+    <w>conversation</w>
+    <internal-media
+      start="155.400"
+      end="159.400"
+      unit="s"
+    />
+    <w>she</w>
+    <w>walks</w>
+    <w>by</w>
+    <w>and</w>
+    <w>she</w>
+    <w>listens</w>
+    <w>to</w>
+    <w>that</w>
+    <w>idea</w>
+    <w>of</w>
+    <w>the</w>
+    <w>rubber</w>
+    <w>band</w>
+    <internal-media
+      start="159.400"
+      end="162.600"
+      unit="s"
+    />
+    <w>for</w>
+    <w>the</w>
+    <w>laundry</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="162.600"
+      end="163.720"
+      unit="s"
+    />
+  </u>
+  <u who="DAC" uID="u46">
+    <w>can</w>
+    <w>she</w>
+    <w>walk</w>
+    <w>by</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="163.720"
+      end="164.840"
+      unit="s"
+    />
+  </u>
+  <u who="LUI" uID="u47">
+    <w>and</w>
+    <w>then</w>
+    <w>she</w>
+    <w>says</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="164.840"
+      end="165.320"
+      unit="s"
+    />
+  </u>
+  <u who="XXX" uID="u48">
+    <w>no</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="165.320"
+      end="165.720"
+      unit="s"
+    />
+  </u>
+  <u who="LUI" uID="u49">
+    <w>wow</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that's</w>
+    <w>a</w>
+    <w>great</w>
+    <w>idea</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="165.720"
+      end="167.360"
+      unit="s"
+    />
+  </u>
+  <u who="DAC" uID="u50">
+    <w>but</w>
+    <w>couldn't</w>
+    <w>yeah</w>
+    <internal-media
+      start="167.360"
+      end="169.240"
+      unit="s"
+    />
+    <w>but</w>
+    <w>couldn't</w>
+    <w>couldn't</w>
+    <w>we</w>
+    <w>make</w>
+    <w>it</w>
+    <w>even</w>
+    <w>more</w>
+    <internal-media
+      start="169.240"
+      end="172.280"
+      unit="s"
+    />
+    <w>so</w>
+    <w>that</w>
+    <w>he's</w>
+    <w>actually</w>
+    <w>using</w>
+    <w>live</w>
+    <w>model</w>
+    <w>systems</w>
+    <internal-media
+      start="172.280"
+      end="175.400"
+      unit="s"
+    />
+    <w>without</w>
+    <w>even</w>
+    <w>talking</w>
+    <w>to</w>
+    <w>people</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="175.400"
+      end="177.400"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u51">
+    <w>no</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="177.400"
+      end="178.040"
+      unit="s"
+    />
+  </u>
+  <u who="DAC" uID="u52">
+    <w>and</w>
+    <w>and</w>
+    <w>and</w>
+    <internal-media
+      start="178.040"
+      end="178.320"
+      unit="s"
+    />
+    <w>and</w>
+    <w>that's</w>
+    <w>actually</w>
+    <w>how</w>
+    <w>he</w>
+    <w>gets</w>
+    <w>into</w>
+    <w>contact</w>
+    <w>with</w>
+    <internal-media
+      start="178.320"
+      end="181.560"
+      unit="s"
+    />
+    <w>so</w>
+    <w>he</w>
+    <w>brought</w>
+    <w>her</w>
+    <w>on</w>
+    <w>this</w>
+    <w>rubber</w>
+    <w>band</w>
+    <w>conference</w>
+    <internal-media
+      start="181.560"
+      end="184.880"
+      unit="s"
+    />
+    <w>because</w>
+    <w>he's</w>
+    <w>very</w>
+    <internal-media
+      start="184.880"
+      end="185.600"
+      unit="s"
+    />
+    <w>closely</w>
+    <w>connected</w>
+    <w>through</w>
+    <w>other</w>
+    <w>medias</w>
+    <w>than</w>
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="185.600"
+      end="189.160"
+      unit="s"
+    />
+  </u>
+  <u who="LUI" uID="u53">
+    <w>well</w>
+    <w>that's</w>
+    <w>what</w>
+    <internal-media
+      start="189.160"
+      end="189.920"
+      unit="s"
+    />
+    <w>yeah</w>
+    <w>that's</w>
+    <w>what</w>
+    <w>Ken</w>
+    <w>sayed</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="189.920"
+      end="191.920"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u54">
+    <w>that's</w>
+    <w>sure</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that's</w>
+    <w>fine</w>
+    <internal-media
+      start="191.920"
+      end="192.880"
+      unit="s"
+    />
+    <w>I</w>
+    <w>can</w>
+    <w>do</w>
+    <w>that</w>
+    <internal-media
+      start="192.880"
+      end="194.120"
+      unit="s"
+    />
+    <w>alright</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I'm</w>
+    <w>willing</w>
+    <w>to</w>
+    <w>do</w>
+    <w>that</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="194.120"
+      end="195.000"
+      unit="s"
+    />
+  </u>
+  <u who="WOM" uID="u55">
+    <w>he</w>
+    <w>just</w>
+    <w>has</w>
+    <w>to</w>
+    <w>be</w>
+    <w>more</w>
+    <w>clear</w>
+    <w>about</w>
+    <w>who's</w>
+    <w>who</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="195.000"
+      end="196.080"
+      unit="s"
+    />
+  </u>
+  <u who="KEN" uID="u56">
+    <w>yeah</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I'm</w>
+    <w>sorry</w>
+    <internal-media
+      start="196.080"
+      end="197.800"
+      unit="s"
+    />
+    <w>I</w>
+    <w>am</w>
+    <w>sorry</w>
+    <w>I</w>
+    <w>didn't</w>
+    <w>recognize</w>
+    <w>it</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="197.800"
+      end="199.040"
+      unit="s"
+    />
+  </u>
+  <u who="MIC" uID="u57">
+    <w>I</w>
+    <w>have</w>
+    <w>one</w>
+    <w>more</w>
+    <w>possible</w>
+    <internal-media
+      start="199.040"
+      end="202.400"
+      unit="s"
+    />
+    <w>I</w>
+    <w>have</w>
+    <w>one</w>
+    <w>more</w>
+    <w>possible</w>
+    <w>build</w>
+    <w>for</w>
+    <w>you</w>
+    <w>on</w>
+    <w>that</w>
+    <t type="missing CA terminator"></t>
+    <media
+      start="202.400"
+      end="204.000"
+      unit="s"
+    />
+  </u>
+  <u who="JAK" uID="u58">
+    <w>we</w>
+    <w>could</w>
+    <w>play</w>
+    <w>with</w>
+    <w>we</w>
+    <w>could</w>
+    <w>play</w>
+    <w>with</w>
+    <w>her</w>
+    <w>coming</w>
+    <w>by</w>
+    <internal-media
+      start="204.000"
+      end="206.360"
+      unit="s"
+    />
+    <w>and</w>
+    <w>suddenly</w>
+    <t type="p"></t>
+    <media
+      start="206.360"
+      end="207.280"
+      unit="s"
+    />
+  </u>
+</CHAT>
